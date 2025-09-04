@@ -7,6 +7,7 @@ Sorting Visualizer is a web-based tool that allows users to **generate a random 
 ## 🚀 Live Demo
 
 🌐 Visit Website : https://ananya790.github.io/Sorting-visualizer
+
 🧑‍💻 GitHub Repository: https://github.com/Ananya790/Sorting-visualizer
 
 ---
@@ -72,5 +73,6 @@ open index.html
 Ananya Singh
 
 GitHub: @Ananya790
+
 
 

@@ -6,8 +6,8 @@ Sorting Visualizer is a web-based tool that allows users to **generate a random 
 
 ## 🚀 Live Demo
 
-🌐 Visit Website : https://iadnanimam.github.io/Sorting-Visualizer/  
-🧑‍💻 GitHub Repository: https://github.com/iAdnanImam/Sorting-Visualizer.git
+🌐 Visit Website :   
+🧑‍💻 GitHub Repository: https://github.com/Ananya790/Sorting-visualizer
 
 ---
 
@@ -50,7 +50,7 @@ The goal of this project is to **help users understand the core logic of sorting
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/iAdnanImam/Sorting-Visualizer.git
+git clone https://github.com/Ananya790/Sorting-visualizer.git
 cd sorting-visualizer
 ```
 ### 2. Open in Browser
@@ -69,6 +69,7 @@ open index.html
 ---
 ## 🧑‍💻 Author
 
-Adnan Imam
+Ananya Singh
 
-GitHub: @iAdnanImam
+GitHub: @Ananya790
+
